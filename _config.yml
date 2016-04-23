@@ -1,6 +1,6 @@
 name: twylo
 favicon: null
-layout_spectrum: 0.22120429226197302
+layout_spectrum: 1
 typography_spectrum: 0.2339221597649157
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.5886380146257579
+  brandStrength: 1
   lightness: 0.9378822981379926
   saturation: 0.16483503533527255
   rhythmicContrast: 0.06071376916952431
